@@ -22,5 +22,6 @@ As this progresses, we might start see-ing well-renowned companies start their o
 
 Other interesting ideas I got were:
 1. [Learn from everywhere](https://www.weforum.org/agenda/2022/02/four-trends-that-will-shape-the-future-of-higher-education/): Remote learning will enable schools to design programs across locations. Imagine a university program where you take on-campus courses then have practical experiences in China while creating your own enterprise (example given in link)
-2. < For you to tell me >
+2. [Reduce reliance on standardized tests](https://www.weforum.org/agenda/2022/02/four-trends-that-will-shape-the-future-of-higher-education/): The article suggests that more and more schools will make standardized tests optional and eventually do away with them entirely. This initially sounded crazy to me because without a standardized test, how will schools ensure students have the fundamental knowledge required for college-level education? However, I agree that there are many issues with these types of tests as they disadvantage low-income students.
+3. < For you to tell me >
 
