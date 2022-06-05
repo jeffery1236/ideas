@@ -10,7 +10,7 @@ comments: true
 
 Recently, I came across a book called *Imaginable* by Jane McGonigal. I realised I spend almost all of my conscious hours on just endless tasks. Even my 'breaks' involve some activity and there is no time for my mind to just run wild and imagine like we all did back when we were kids.
 
-Now, I am starting a new project where I will imagine the future in a specific area or a specific future scenario. It may not be the most likely future but hopefully I will come with some interesting ideas.
+I am starting a new project where I will imagine the future in a specific area or a specific future scenario. It may not be the most likely future but hopefully I will come with some interesting ideas.
 
 ---
 
