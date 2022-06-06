@@ -8,11 +8,11 @@ tags: [future, education]
 comments: true
 ---
 
-Recently, I came across a book called *Imaginable* by Jane McGonigal. I realised I spend almost all of my conscious hours on just endless tasks. Even my 'breaks' involve some activity and there is no time for my mind to just run wild and imagine like we all did back when we were kids.
+<!-- Recently, I came across a book called *Imaginable* by Jane McGonigal. I realised I spend almost all of my conscious hours on just endless tasks. Even my 'breaks' involve some activity and there is no time for my mind to just run wild and imagine like we all did back when we were kids.
 
 I am starting a new project where I will imagine the future in a specific area or a specific future scenario. It may not be the most likely future but hopefully I will come with some interesting ideas.
 
----
+--- -->
 
 So what will the future of higher education be like? From my perspective, the goal of higher education has shifted from teaching critical thinking skills to just preparing you for a job. Ask a random Singaporean teen, "why should you go to university?". The answer you get will probably be around the lines of "to get a good paying job".
 
