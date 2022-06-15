@@ -71,7 +71,7 @@
       {% include ext-css.html css=css %}
     {% endfor %}
   {% endif %}
-  
+
   {% if page.css %}
     {% for css in page.css %}
       <link rel="stylesheet" href="{{ css | relative_url }}">
@@ -85,6 +85,8 @@
   {% if site.title %}
   <meta property="og:site_name" content="{{ site.title }}">
   {% endif %}
+
+  <link rel="shortcut icon" type="image/x-icon" href="{{ site.baseurl }}/assets/img/hello_world.jpeg">
 
   {%- capture img -%}
     {%- if page.share-img -%}
@@ -138,6 +140,7 @@
   {% endif %}
 
   {% include matomo.html %}
+
 
   {% if page.comments and site.staticman.repository and site.staticman.branch %}
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
